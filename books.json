@@ -3,12 +3,12 @@
     {
       "name": "Swiss Family Robinson",
       "folder": "Swiss-Family-Robinson",
-      "groups": [...]
+      "groups": [10]
     },
     {
       "name": "Treasure Island",
       "folder": "Treasure-Island",
-      "groups": [...]
+      "groups": [8]
     }
   ]
 }
