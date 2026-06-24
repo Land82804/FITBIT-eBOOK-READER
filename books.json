@@ -1,7 +1,7 @@
 {
   "books": [
     {
-      "name": "Swiss Family Robinson",
+      "name": "Swiss-Family-Robinson",
       "folder": "Swiss-Family-Robinson",
       "groups": [
         {
@@ -11,7 +11,7 @@
       ]
     },
     {
-      "name": "Treasure Island",
+      "name": "Treasure-Island",
       "folder": "Treasure-Island",
       "groups": [
         {
