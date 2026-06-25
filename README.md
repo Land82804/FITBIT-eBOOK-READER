@@ -1,4 +1,4 @@
 Please downloud the shortcut here: https://www.icloud.com/shortcuts/09727dd9ed8f40a4927579fb28408f29 | Then follow the instuctions to setup.
 
-<img width="400" height="689" alt="ScreenRecording_06-25-2026 18-28-30_1" src="https://github.com/user-attachments/assets/803bd294-b677-47e3-aa67-895b072ff415" />
-<img width="400" height="685" alt="ScreenRecording_06-25-2026 18-29-50_1" src="https://github.com/user-attachments/assets/3310aa28-8e70-4533-a1dc-857bd1969870" />
+<img width="400" height="865" alt="ScreenRecording_06-25-2026 18-45-40_1" src="https://github.com/user-attachments/assets/cfc79713-9c71-4cd5-a19d-d1230f22cd84" />
+<img width="400" height="689" alt="ScreenRecording_06-25-2026 18-28-30_1" src="https://github.com/user-attachments/assets/1ecec33e-f2bf-40fe-be3f-89c26604ea5a" />
