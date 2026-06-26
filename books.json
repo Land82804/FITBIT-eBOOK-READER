@@ -1,24 +1,10 @@
 {
   "books": [
     {
-      "name": "Swiss-Family-Robinson",
-      "folder": "Swiss-Family-Robinson",
-      "groups": [
-        {
-          "name": "Group-1",
-          "parts": 10
-        }
-      ]
+      "name": "Swiss-Family-Robinson"
     },
     {
-      "name": "Treasure-Island",
-      "folder": "Treasure-Island",
-      "groups": [
-        {
-          "name": "Group-1",
-          "parts": 8
-        }
-      ]
+      "name": "Book 2 Coming Soon"
     }
   ]
 }
